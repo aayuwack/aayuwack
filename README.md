@@ -14,7 +14,7 @@
 class Developer {
   String name = "Aayush Lamichhane";
   String username = "@aayuwack";
-  String learning = "Flutter Development";
+  String learning = "Frontend Development";
   String[] interests = ["Mobile Apps", "UI/UX Design", "Open Source"];
   String[] goals = ["Master Flutter", "Build Impactful Apps", "Contribute to OSS"];
   String contact = "aayushlamichhane642@gmail.com";
